@@ -1,4 +1,4 @@
-package com.pulpudev.tasktracker.mapper;
+package com.pulpudev.tasktracker.mappers;
 
 import com.pulpudev.tasktracker.domain.dto.TaskDto;
 import com.pulpudev.tasktracker.domain.entities.Task;

@@ -1,11 +1,11 @@
-package com.pulpudev.tasktracker.mapper.impl;
+package com.pulpudev.tasktracker.mappers.impl;
 
 import com.pulpudev.tasktracker.domain.dto.TaskListDto;
 import com.pulpudev.tasktracker.domain.entities.Task;
 import com.pulpudev.tasktracker.domain.entities.TaskList;
 import com.pulpudev.tasktracker.domain.entities.TaskStatus;
-import com.pulpudev.tasktracker.mapper.TaskListMapper;
-import com.pulpudev.tasktracker.mapper.TaskMapper;
+import com.pulpudev.tasktracker.mappers.TaskListMapper;
+import com.pulpudev.tasktracker.mappers.TaskMapper;
 import org.springframework.stereotype.Component;
 
 import java.util.List;

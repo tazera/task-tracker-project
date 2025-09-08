@@ -1,8 +1,8 @@
-package com.pulpudev.tasktracker.mapper.impl;
+package com.pulpudev.tasktracker.mappers.impl;
 
 import com.pulpudev.tasktracker.domain.dto.TaskDto;
 import com.pulpudev.tasktracker.domain.entities.Task;
-import com.pulpudev.tasktracker.mapper.TaskMapper;
+import com.pulpudev.tasktracker.mappers.TaskMapper;
 import org.springframework.stereotype.Component;
 
 @Component
